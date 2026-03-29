@@ -24,7 +24,7 @@ ATTENDANCE_FILE = os.path.join(BASE_DIR, "attendance.csv")
 # Home Assistant 配置
 HA_IP = "192.168.3.120"
 HA_PORT = 8123
-HA_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIyYTA4NWJjYjljMDM0YTc2YmNkZjVlYzg1Y2U2ODAzNyIsImlhdCI6MTc1MzI1MTkzNCwiZXhwIjoyMDY4NjExOTM0fQ.eArQlARywpdQ8Vs3DYrj0DY5a3LfSbgxttAghUOYhuc"
+HA_TOKEN = "HA令牌"
 PLAY_ENTITY_ID = "notify.xiaomi_cn_759289298_l04m_play_text_a_5_1"
 
 # 去重配置
